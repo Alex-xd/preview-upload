@@ -1,16 +1,16 @@
 /**
- * preview.js is a native js plugin that makes it easy to show preview
- * when uploading an image.
- *
+ * preview.js is a native js plugin that makes it easy to 
+ * preview your image on local before you upload it
+ * 
  * @name preview
- * @version 1.0.0
+ * @version 1.0.1
  * @author Alexxd
  * @license MIT License - http://www.opensource.org/licenses/mit-license.php
  *
  * For usage and examples, visit:
  * https://github.com/Alex-xd/preview-upload/blob/master/README.md
  *
- * Copyright (c) 2008-2015, Ryan McGeary (ryan -[at]- mcgeary [*dot*] org)
+ * Copyright (c) 2016, Alexxd
  */
 ;(function(exports) {
     /**

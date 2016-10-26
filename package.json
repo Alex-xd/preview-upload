@@ -1,11 +1,10 @@
 {
   "name": "preview-upload",
-  "version": "1.0.0",
-  "description": "A light and easy use of preview a image uploaded",
+  "version": "1.0.1",
+  "description": "Preview your image on local before you upload it.",
   "main": "preview.min.js",
   "dependencies": {},
-  "devDependencies": {
-  },
+  "devDependencies": {},
   "scripts": {
     "test": "open DEMO.html"
   },

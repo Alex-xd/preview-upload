@@ -1,10 +1,18 @@
-# Image upload Preview
+## preview.js
 
-#### A light and easy use of preview a image uploaded. 
+> A light and easy use plugin for showing a preview before you upload image.
 
 ## Usage
 
-simply include `imgUploader.js` then 
+**1. Install preview.js**
+
+`npm install upload-preview` and test it use `npm test` if you want.
+
+or
+
+simply include `preview.js` 
+
+**2. Use it**
 
 ```javascript
 imgUploader.listen('#uploader');
@@ -23,7 +31,7 @@ imgUploader.config({ prvBox:'preview' })
 </script>
 ```
 
-we can put our preview box any where just give it a class or id.
+You can put preview box any where just give it a class or id.
 
 ![show](http://o6x2vif88.bkt.clouddn.com/preview-uploader.png)
 
