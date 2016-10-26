@@ -1,6 +1,6 @@
 {
   "name": "upload-preview",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Preview your image on local before you upload it.",
   "main": "preview.min.js",
   "dependencies": {},
