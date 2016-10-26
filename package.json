@@ -1,5 +1,5 @@
 {
-  "name": "preview-upload",
+  "name": "upload-preview",
   "version": "1.0.1",
   "description": "Preview your image on local before you upload it.",
   "main": "preview.min.js",
