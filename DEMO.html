@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <title>demo</title>
+</head>
+
+<body>
+    <form>
+        <input id="uploader" type="file">
+        <div id="preview"></div>
+    </form>
+    <script src="preview.min.js"></script>
+    <script>
+    preview.config({
+        prvBox: 'preview',
+        width: 150,
+        height: 150,
+        isAbsPosition: true
+    }).listen('#uploader');
+    </script>
+</body>
+
+</html>
