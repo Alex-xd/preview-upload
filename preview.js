@@ -1,5 +1,5 @@
 /**
- * @author zhangboyuan-XD
+ * @author Alexxd
  * @version 1.0.0
  * @decription image upload with a preview js component.
  */

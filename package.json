@@ -1,0 +1,25 @@
+{
+  "name": "preview-upload",
+  "version": "1.0.0",
+  "description": "A light and easy use of preview a image uploaded",
+  "main": "preview.min.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alex-xd/preview-upload.git"
+  },
+  "keywords": [
+    "preview",
+    "upload image"
+  ],
+  "author": "Alexxd",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Alex-xd/preview-upload/issues"
+  },
+  "homepage": "https://github.com/Alex-xd/preview-upload#readme"
+}

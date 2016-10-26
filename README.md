@@ -45,3 +45,6 @@ imgUploader.config({
 Attribute `isAbsPostion`  means whether to use absolute positioning(set it 'true' to have higher a performance but make the preview box to be a absolute position box).
 
 welcome pr to improve this project & enjoy it.
+
+## LISENCE
+MIT
