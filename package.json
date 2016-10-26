@@ -4,7 +4,8 @@
   "description": "A light and easy use of preview a image uploaded",
   "main": "preview.min.js",
   "dependencies": {},
-  "devDependencies": {},
+  "devDependencies": {
+  },
   "scripts": {
     "test": "open DEMO.html"
   },
