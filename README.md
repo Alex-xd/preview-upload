@@ -2,9 +2,8 @@
 
 > A light and easy use plugin for showing a preview before you upload image.
 
-[![npm]()]
 
-
+[![NPM version][npm-image]][npm-url] 
 
 ## Usage
 
