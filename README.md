@@ -2,6 +2,10 @@
 
 > A light and easy use plugin for showing a preview before you upload image.
 
+[![npm]()]
+
+
+
 ## Usage
 
 **1. Install preview.js**
@@ -10,12 +14,12 @@
 
 or
 
-simply include `preview.js` 
+simply include `<script src="preview.js"></script>`
 
 **2. Use it**
 
 ```javascript
-imgUploader.listen('#uploader');
+preview.listen('#uploader');
 ```
 
 for example
@@ -24,14 +28,14 @@ for example
 <input id="uploader" type="file">
 <div id="preview"></div>
 
-<script src="imgUploader.js"></script>
+<script src="preview.js"></script>
 <script>
-imgUploader.config({ prvBox:'preview' })
+preview.config({ prvBox:'preview' })
 	       .listen('#uploader');
 </script>
 ```
 
-You can put preview box any where just give it a class or id.
+**Ps: You can put preview box any where just give it a class or id.**
 
 ![show](http://o6x2vif88.bkt.clouddn.com/preview-uploader.png)
 
@@ -41,8 +45,8 @@ You can use `config()` to customalize your preview box.
 
 ```html
 <script>
-imgUploader.config({
-    prvBox: 'J_preview',
+preview.config({
+    prvBox: 'preview',
     width: 200,
     height: 200,
     isAbsPosition: true
