@@ -3,7 +3,7 @@
  * preview your image on local before you upload it
  * 
  * @name preview
- * @version 1.0.3
+ * @version 1.0.6
  * @author Alexxd
  * @license MIT License - http://www.opensource.org/licenses/mit-license.php
  *
