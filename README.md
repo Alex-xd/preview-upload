@@ -3,7 +3,7 @@
 [![npm](https://img.shields.io/badge/npm-1.0.6-blue.svg)](https://www.npmjs.com/package/upload-preview)
 [![lisence](https://img.shields.io/badge/LISENCE-MIT-green.svg)](https://github.com/Alex-xd/preview-upload)
 
-> A light and easy use plugin for showing a preview before you upload image.
+> A light and easy use plugin for showing a preview before you upload an image.
 
 
 
